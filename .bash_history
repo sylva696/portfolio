@@ -14,3 +14,13 @@ git status
 git add .
 git commit -m "Improve contact section and portfolio layout"
 git push
+git add .
+git commit -m "Improve contact section and portfolio layout"
+git push
+sylva696
+clear
+git add .
+git commit -m "Improve contact section and portfolio layout"
+git push
+pwd
+cd public
