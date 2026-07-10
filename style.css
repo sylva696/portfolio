@@ -572,3 +572,14 @@ nav li{
 .project-card a:hover{
     background:#008891;
 }
+
+.profile-photo {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #00bfff;
+    box-shadow: 0 10px 25px rgba(0, 191, 255, 0.3);
+    display: block;
+    margin: 20px auto;
+}
