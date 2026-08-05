@@ -30,3 +30,6 @@ git commit -m "Well structured now"
 git push
 sylva696
 git push
+git add .
+git commit -m "Well structured now"
+git push
