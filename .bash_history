@@ -24,3 +24,4 @@ git commit -m "Improve contact section and portfolio layout"
 git push
 pwd
 cd public
+git commit -m "Update"
