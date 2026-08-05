@@ -25,3 +25,8 @@ git push
 pwd
 cd public
 git commit -m "Update"
+git add .
+git commit -m "Well structured now"
+git push
+sylva696
+git push
